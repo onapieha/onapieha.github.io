@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onapieha.github.io/Qfe/sitemap_index.txt
+Sitemap: https://onapieha.github.io/bMm/sitemap_index.txt
+Sitemap: https://onapieha.github.io/baX/sitemap_index.txt
+Sitemap: https://onapieha.github.io/sZl/sitemap_index.txt
